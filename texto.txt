@@ -1,2 +1,6 @@
 Se crea un nuevo archivo en otra rama.
+<<<<<<< HEAD
 uy, un conflicto.
+=======
+Se crea un conflicto.
+>>>>>>> 6126f75665a16c50d5c27dbd0a8361804d04dbee
