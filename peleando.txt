@@ -1,4 +1,7 @@
 En este archivo se hara el conflicto.
 
 Yatziri escribe esto
+
 sofia quiere pelear
+
+Yatziri hace este conflicto.
